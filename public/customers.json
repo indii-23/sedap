@@ -1,0 +1,212 @@
+[
+  {
+    "customerId": "CUST001",
+    "customerName": "Dt. Tirta Widiastuti",
+    "email": "bagas47@pd.net.id",
+    "phone": "(0213) 428 6719",
+    "loyalty": "Silver"
+  },
+  {
+    "customerId": "CUST002",
+    "customerName": "Ir. Galuh Fujiati, S.Ked",
+    "email": "usetiawan@yahoo.com",
+    "phone": "+62 (978) 544 2989",
+    "loyalty": "Bronze"
+  },
+  {
+    "customerId": "CUST003",
+    "customerName": "Ir. Daruna Wulandari, S.Psi",
+    "email": "dpranowo@hotmail.com",
+    "phone": "+62 (0377) 846-8809",
+    "loyalty": "Gold"
+  },
+  {
+    "customerId": "CUST004",
+    "customerName": "Samiah Saragih",
+    "email": "ratihyulianti@gmail.com",
+    "phone": "+62-540-279-1423",
+    "loyalty": "Gold"
+  },
+  {
+    "customerId": "CUST005",
+    "customerName": "Jessica Adriansyah, M.Kom.",
+    "email": "pratiwicakrawangsa@pd.mil",
+    "phone": "+62 (811) 712-7235",
+    "loyalty": "Silver"
+  },
+  {
+    "customerId": "CUST006",
+    "customerName": "Kacung Hassanah",
+    "email": "laksmiwatiopan@hotmail.com",
+    "phone": "+62 (074) 946-4011",
+    "loyalty": "Silver"
+  },
+  {
+    "customerId": "CUST007",
+    "customerName": "Rama Sihombing, S.Psi",
+    "email": "tiarausamah@gmail.com",
+    "phone": "+62-042-795-9328",
+    "loyalty": "Bronze"
+  },
+  {
+    "customerId": "CUST008",
+    "customerName": "Virman Saragih, S.Sos",
+    "email": "mpradana@yahoo.com",
+    "phone": "+62 (0577) 094 1272",
+    "loyalty": "Gold"
+  },
+  {
+    "customerId": "CUST009",
+    "customerName": "Karna Sitompul",
+    "email": "ylaksmiwati@gmail.com",
+    "phone": "(0938) 433-2560",
+    "loyalty": "Silver"
+  },
+  {
+    "customerId": "CUST010",
+    "customerName": "Drs. Padmi Prayoga, S.Psi",
+    "email": "emildamanik@yahoo.com",
+    "phone": "(0777) 823-4752",
+    "loyalty": "Gold"
+  },
+  {
+    "customerId": "CUST011",
+    "customerName": "Cut Widya Pangestu, M.TI.",
+    "email": "zhastuti@yahoo.com",
+    "phone": "+62 (60) 994-8226",
+    "loyalty": "Silver"
+  },
+  {
+    "customerId": "CUST012",
+    "customerName": "Ulya Prastuti",
+    "email": "lutfan28@ud.org",
+    "phone": "+62-0125-815-0422",
+    "loyalty": "Silver"
+  },
+  {
+    "customerId": "CUST013",
+    "customerName": "Dr. Nabila Nasyidah",
+    "email": "pprasetyo@pd.sch.id",
+    "phone": "+62 (0787) 328-8762",
+    "loyalty": "Gold"
+  },
+  {
+    "customerId": "CUST014",
+    "customerName": "Hilda Pratama",
+    "email": "kamal18@ud.edu",
+    "phone": "+62 (0676) 743-4920",
+    "loyalty": "Bronze"
+  },
+  {
+    "customerId": "CUST015",
+    "customerName": "Kamila Prastuti, S.E.",
+    "email": "entenghalim@yahoo.com",
+    "phone": "+62-0291-517-4162",
+    "loyalty": "Gold"
+  },
+  {
+    "customerId": "CUST016",
+    "customerName": "Nasab Waskita",
+    "email": "johan33@pd.biz.id",
+    "phone": "+62-0943-784-9371",
+    "loyalty": "Gold"
+  },
+  {
+    "customerId": "CUST017",
+    "customerName": "Paris Pradipta",
+    "email": "upik40@hotmail.com",
+    "phone": "(0004) 516 4592",
+    "loyalty": "Gold"
+  },
+  {
+    "customerId": "CUST018",
+    "customerName": "Prakosa Prakasa",
+    "email": "yani64@yahoo.com",
+    "phone": "(0602) 392-8222",
+    "loyalty": "Gold"
+  },
+  {
+    "customerId": "CUST019",
+    "customerName": "Nilam Haryanto",
+    "email": "sitoruskarna@perum.id",
+    "phone": "+62 (19) 419-1576",
+    "loyalty": "Silver"
+  },
+  {
+    "customerId": "CUST020",
+    "customerName": "Rahmi Mandasari",
+    "email": "ekaoktaviani@cv.id",
+    "phone": "+62 (102) 036 4488",
+    "loyalty": "Silver"
+  },
+  {
+    "customerId": "CUST021",
+    "customerName": "Latika Maryati",
+    "email": "fkuswoyo@pd.or.id",
+    "phone": "+62-079-297-3849",
+    "loyalty": "Silver"
+  },
+  {
+    "customerId": "CUST022",
+    "customerName": "Puti Rachel Anggraini, S.E.I",
+    "email": "maimunahsalahudin@yahoo.com",
+    "phone": "(019) 274-2769",
+    "loyalty": "Bronze"
+  },
+  {
+    "customerId": "CUST023",
+    "customerName": "Sadina Marbun",
+    "email": "laksmiwatikairav@perum.ponpes.id",
+    "phone": "+62 (096) 063 6952",
+    "loyalty": "Bronze"
+  },
+  {
+    "customerId": "CUST024",
+    "customerName": "Prima Hakim",
+    "email": "hartoharyanti@yahoo.com",
+    "phone": "+62 (0770) 522-9635",
+    "loyalty": "Bronze"
+  },
+  {
+    "customerId": "CUST025",
+    "customerName": "Ciaobella Prasasta",
+    "email": "mansurdarmanto@perum.net.id",
+    "phone": "+62-17-976-0695",
+    "loyalty": "Silver"
+  },
+  {
+    "customerId": "CUST026",
+    "customerName": "Kiandra Narpati",
+    "email": "prabowoanastasia@perum.edu",
+    "phone": "+62 (046) 101-7998",
+    "loyalty": "Gold"
+  },
+  {
+    "customerId": "CUST027",
+    "customerName": "Soleh Pranowo",
+    "email": "saputrakeisha@yahoo.com",
+    "phone": "+62 (92) 944-8864",
+    "loyalty": "Silver"
+  },
+  {
+    "customerId": "CUST028",
+    "customerName": "Wahyu Mangunsong, M.M.",
+    "email": "samsulnarpati@pd.go.id",
+    "phone": "(0810) 626-5411",
+    "loyalty": "Bronze"
+  },
+  {
+    "customerId": "CUST029",
+    "customerName": "Anggabaya Pudjiastuti",
+    "email": "halim61@gmail.com",
+    "phone": "+62 (52) 312-6269",
+    "loyalty": "Silver"
+  },
+  {
+    "customerId": "CUST030",
+    "customerName": "Ivan Andriani",
+    "email": "dacinwasita@hotmail.com",
+    "phone": "+62 (0575) 298 4331",
+    "loyalty": "Gold"
+  }
+]

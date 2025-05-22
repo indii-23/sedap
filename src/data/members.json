@@ -1,0 +1,32 @@
+[
+  {
+    "member_id": 1,
+    "nama": "Afif Ramadhani",
+    "email": "afif@mail.com",
+    "tipe_member": "gold"
+  },
+  {
+    "member_id": 2,
+    "nama": "Dinda Putri",
+    "email": "dinda@mail.com",
+    "tipe_member": "silver"
+  },
+  {
+    "member_id": 3,
+    "nama": "Bayu Saputra",
+    "email": "bayu@mail.com",
+    "tipe_member": "platinum"
+  },
+  {
+    "member_id": 4,
+    "nama": "Intan Permata",
+    "email": "intan@mail.com",
+    "tipe_member": "gold"
+  },
+  {
+    "member_id": 5,
+    "nama": "Yoga Mahendra",
+    "email": "yoga@mail.com",
+    "tipe_member": "silver"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nama": "Nasi Goreng Spesial",
+    "harga": 25000,
+    "gambar": "https://source.unsplash.com/400x300/?fried-rice"
+  },
+  {
+    "id": 2,
+    "nama": "Mie Ayam Bakso",
+    "harga": 22000,
+    "gambar": "https://source.unsplash.com/400x300/?noodles"
+  },
+  {
+    "id": 3,
+    "nama": "Ayam Geprek Level 5",
+    "harga": 20000,
+    "gambar": "https://source.unsplash.com/400x300/?spicy-chicken"
+  },
+  {
+    "id": 4,
+    "nama": "Sate Ayam Madura",
+    "harga": 30000,
+    "gambar": "https://source.unsplash.com/400x300/?satay"
+  }
+]

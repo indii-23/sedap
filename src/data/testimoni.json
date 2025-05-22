@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "nama": "Rina Anggraini",
+    "ulasan": "Makanannya enak banget! Porsi pas, pengiriman cepat.",
+    "avatar": "https://avatar-placeholder.iran.liara.run/?name=Rina+Anggraini"
+  },
+  {
+    "id": 2,
+    "nama": "Fajar Setiawan",
+    "ulasan": "Sudah 3x pesan dan gak pernah kecewa. Recommended!",
+    "avatar": "https://avatar-placeholder.iran.liara.run/?name=Fajar+Setiawan"
+  },
+  {
+    "id": 3,
+    "nama": "Citra Lestari",
+    "ulasan": "Pelayanannya ramah, makanannya bersih dan sehat.",
+    "avatar": "https://avatar-placeholder.iran.liara.run/?name=Citra+Lestari"
+  },
+  {
+    "id": 4,
+    "nama": "Dian Purnomo",
+    "ulasan": "Top banget buat anak kos kayak saya, harga bersahabat.",
+    "avatar": "https://avatar-placeholder.iran.liara.run/?name=Dian+Purnomo"
+  },
+  {
+    "id": 5,
+    "nama": "Andi Gunawan",
+    "ulasan": "Pengiriman cepat dan rasa luar biasa!",
+    "avatar": "https://avatar-placeholder.iran.liara.run/?name=Andi+Gunawan"
+  }
+]
+
