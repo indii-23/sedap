@@ -1,6 +1,7 @@
 import { AiOutlineUser } from "react-icons/ai";
 import { BiSearchAlt2 } from "react-icons/bi";
 import { AiFillHome } from "react-icons/ai";
+import { MdFastfood } from "react-icons/md";
 import { Link, NavLink } from "react-router-dom";
 
 export default function Sidebar() {
@@ -50,6 +51,12 @@ export default function Sidebar() {
               className="block px-4 py-2 text-gray-700 hover:bg-gray-100 rounded-md"
             >
               Users
+            </NavLink>
+          </li>
+          <li>
+            <NavLink id="menu-4" to="/products" className={menuClass}>
+              <MdFastfood className="mr-4 text-xl" />
+              Products
             </NavLink>
           </li>
         </ul>
